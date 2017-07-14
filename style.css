@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+  font-family: "Courier New", monospace;
+  border-style: dotted;
+  border-width: medium;
+  border-color: navy;
+}
+p {
+  color: blue;
+}
+h1 {
+  color: purple;
+  font-style: normal;
+  font-weight: bolder;
+}
+a {
+}
