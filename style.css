@@ -2,12 +2,16 @@ body {
   text-align: center;
   background-color: lightblue;
   font-family: "Courier New", monospace;
-  border-style: dotted;
+  border-style: dashed;
   border-width: medium;
   border-color: navy;
 }
 p {
   color: blue;
+}
+p1 {
+  color: purple;
+  font-size: 22px;
 }
 h1 {
   color: purple;
